@@ -9,8 +9,7 @@ public class Uzduotys_1 {
 
         System.out.println("iveskite zodi");
         Scanner scanner = new Scanner(System.in);
-        /*String word = scanner.nextLine();/*
-        System.out.println(word);*/
+// dadadad   dadaddd
 
         getCorrectWord(scanner);
 

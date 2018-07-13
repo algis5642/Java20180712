@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b279ffe2-cc82-428e-85b1-4d10413550b8" name="Default" comment="" />
+    <list default="true" id="b279ffe2-cc82-428e-85b1-4d10413550b8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Uzduotys_2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Uzduotys_2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Uzduotys_1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Uzduotys_1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="35" column="95" selection-start-line="35" selection-start-column="95" selection-end-line="35" selection-end-column="95" />
+            <state relative-caret-position="168">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -53,12 +55,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/days/first/WelcomeClass.java" />
-        <option value="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" />
         <option value="$PROJECT_DIR$/src/days/first/Uzduotys_2.java" />
+        <option value="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" />
       </list>
     </option>
   </component>
@@ -77,6 +82,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -232,12 +238,12 @@
       <updated>1531412637707</updated>
       <workItem from="1531412641243" duration="7269000" />
       <workItem from="1531425302031" duration="3201000" />
-      <workItem from="1531496018630" duration="1516000" />
+      <workItem from="1531496018630" duration="2508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11986000" />
+    <option name="totallyTimeSpent" value="12978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -251,8 +257,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31073445" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30932203" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32909605" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -334,17 +340,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
+    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="35" column="95" selection-start-line="35" selection-start-column="95" selection-end-line="35" selection-end-column="95" />
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
+    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="168">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
