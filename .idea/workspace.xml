@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b279ffe2-cc82-428e-85b1-4d10413550b8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javos_mokymai/days/first/Uzduotys_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days/first/Uzduotys_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/days/second/Uzduotys_2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,29 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WelcomeClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/first/WelcomeClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Uzduotys_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Uzduotys_1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Uzduotys_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Uzduotys_2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -64,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/days/first/WelcomeClass.java" />
         <option value="$PROJECT_DIR$/src/days/first/Uzduotys_2.java" />
         <option value="$PROJECT_DIR$/src/days/first/Uzduotys_1.java" />
+        <option value="$PROJECT_DIR$/src/days/second/Uzduotys_2.java" />
       </list>
     </option>
   </component>
@@ -115,6 +110,13 @@
               <item name="days" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javos_mokymai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javos_mokymai" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="days" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,18 +147,18 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.first.*" />
+          <option name="PATTERN" value="days.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Uzduotys_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.first.Uzduotys_2" />
+      <option name="MAIN_CLASS_NAME" value="days.second.Uzduotys_2" />
       <module name="Javos_mokymai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.first.*" />
+          <option name="PATTERN" value="days.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,7 +169,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.first.*" />
+          <option name="PATTERN" value="days.second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,15 +240,16 @@
       <updated>1531412637707</updated>
       <workItem from="1531412641243" duration="7269000" />
       <workItem from="1531425302031" duration="3201000" />
-      <workItem from="1531496018630" duration="2508000" />
+      <workItem from="1531496018630" duration="5095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12978000" />
+    <option name="totallyTimeSpent" value="15565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -258,8 +261,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30932203" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30932203" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23221476" />
@@ -305,7 +308,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
+    <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
@@ -319,7 +322,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
+    <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -340,17 +343,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>
