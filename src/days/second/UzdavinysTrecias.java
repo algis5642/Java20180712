@@ -8,40 +8,48 @@ public class UzdavinysTrecias {
 
 
         Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Prasome pasirinkti figura\na-statusis trikampis\nb-staciakampis\nc-kvadratas\n-d apskritimas");
-        String selection = scanner.nextLine();
+        String baigti;
         UzdavinysTrecias secondTask = new UzdavinysTrecias();
+        do {
+            System.out.println("Prasome pasirinkti figura\na-statusis trikampis\nb-staciakampis\nc-kvadratas\n-d apskritimas");
 
-        switch (selection) {
-            case "a":
-                System.out.println(secondTask.statusTrikampis(scanner));
+            String selection = scanner.nextLine();
 
-                break;
+            switch (selection) {
+                case "a":
+                    System.out.println(secondTask.statusTrikampis(scanner));
 
-            case "b":
-                System.out.println(secondTask.staciakampis(scanner));
-                break;
+                    break;
 
-            case "c":
-                System.out.println(secondTask.kvadratoPlotas(scanner));
+                case "b":
+                    System.out.println(secondTask.staciakampis(scanner));
+                    break;
 
-                break;
+                case "c":
+                    System.out.println(secondTask.kvadratoPlotas(scanner));
+
+                    break;
 
 
-            case "d":
-                System.out.println(secondTask.apskritimas(scanner));
-                break;
+                case "d":
+                    System.out.println(secondTask.apskritimas(scanner));
+                    break;
 
-            default:
-                System.out.println("nera tokio metodo");
-                break;
-        }
+                default:
+                    System.out.println("nera tokio metodo");
+                    break;
+            }
+            System.out.println("Baigti ? t/n");
+            baigti = scanner.nextLine();
+
+
+
+        }while (!baigti.equals("t"));
     }
 
     private double statusTrikampis(Scanner scanner) {
 
-        double a = getCorrectNumber(scanner,"Iveskite statini");
+        double a = getCorrectNumber(scanner, "Iveskite statini");
 
         double b = getCorrectNumber(scanner, "iveskite antra statini");
         return (a * b) / 2;
@@ -84,6 +92,7 @@ public class UzdavinysTrecias {
             System.out.println(message);
             try {
                 result = sc.nextDouble();
+                sc.nextLine();
                 break;
             } catch (InputMismatchException e) {
                 System.out.println("Nepavyko pakartokit");
