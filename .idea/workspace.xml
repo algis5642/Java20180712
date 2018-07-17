@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b279ffe2-cc82-428e-85b1-4d10413550b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/days/third/utils/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/third/uzdavinysSesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/ConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/SecondExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Javos_mokymai/days/third/uzdavinysSesi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Javos_mokymai/days/third/uzdavinysSesi.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UzdavinysTrecias.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/second/UzdavinysTrecias.java">
+      <file leaf-file-name="ListExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/ListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+            <state relative-caret-position="367">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +39,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/third/utils/NumberUtils.java">
+      <file leaf-file-name="UzdaviniaiNamuPirmas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="35">
+              <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#197#205#0" expanded="true" />
+                <element signature="e#459#468#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/SecondExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uzdavinysKeturi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysKeturi.java">
+      <file leaf-file-name="MapExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/MapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="306">
+              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,59 +77,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uzdavinysPenki.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysPenki.java">
+      <file leaf-file-name="ConstructorExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/ConstructorExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="119">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/SetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uzdavinysSesi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysSesi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/third/utils/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Uzduotys_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Uzduotys_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -140,6 +132,14 @@
         <option value="$PROJECT_DIR$/src/days/third/uzdavinysPenki.java" />
         <option value="$PROJECT_DIR$/src/days/third/utils/Calculator.java" />
         <option value="$PROJECT_DIR$/src/days/third/uzdavinysSesi.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/UzdavinysSeptyni.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/ListExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/SetExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/ConstructorExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/MapExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/SecondExample.java" />
       </list>
     </option>
   </component>
@@ -195,29 +195,7 @@
               <item name="Javos_mokymai" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javos_mokymai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javos_mokymai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javos_mokymai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javos_mokymai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javos_mokymai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javos_mokymai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="fourth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,6 +207,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -247,53 +226,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.uzdavinysSesi">
-    <configuration name="UzdavinysTrecias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.second.UzdavinysTrecias" />
+  <component name="RunManager" selected="Application.SecondExample">
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.MapExample" />
       <module name="Javos_mokymai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.second.*" />
+          <option name="PATTERN" value="days.fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Uzduotys_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.second.Uzduotys_2" />
+    <configuration name="SecondExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.SecondExample" />
       <module name="Javos_mokymai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.second.*" />
+          <option name="PATTERN" value="days.fourth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.SetExample" />
+      <module name="Javos_mokymai" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="days.fourth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UzdaviniaiNamuPirmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.UzdaviniaiNamuPirmas" />
+      <module name="Javos_mokymai" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="days.fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="uzdavinysKeturi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.third.uzdavinysKeturi" />
-      <module name="Javos_mokymai" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="days.third.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="uzdavinysPenki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.third.uzdavinysPenki" />
-      <module name="Javos_mokymai" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="days.third.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="uzdavinysSesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="days.third.uzdavinysSesi" />
@@ -345,19 +324,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Uzduotys_2" />
-      <item itemvalue="Application.UzdavinysTrecias" />
-      <item itemvalue="Application.uzdavinysKeturi" />
-      <item itemvalue="Application.uzdavinysPenki" />
       <item itemvalue="Application.uzdavinysSesi" />
+      <item itemvalue="Application.SetExample" />
+      <item itemvalue="Application.MapExample" />
+      <item itemvalue="Application.UzdaviniaiNamuPirmas" />
+      <item itemvalue="Application.SecondExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondExample" />
+        <item itemvalue="Application.UzdaviniaiNamuPirmas" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.SetExample" />
         <item itemvalue="Application.uzdavinysSesi" />
-        <item itemvalue="Application.uzdavinysPenki" />
-        <item itemvalue="Application.uzdavinysKeturi" />
-        <item itemvalue="Application.UzdavinysTrecias" />
-        <item itemvalue="Application.Uzduotys_2" />
       </list>
     </recent_temporary>
   </component>
@@ -373,12 +352,12 @@
       <updated>1531412637707</updated>
       <workItem from="1531412641243" duration="7269000" />
       <workItem from="1531425302031" duration="3201000" />
-      <workItem from="1531496018630" duration="22855000" />
+      <workItem from="1531496018630" duration="32856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33325000" />
+    <option name="totallyTimeSpent" value="43326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -386,16 +365,16 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4966443" weight="0.32909605" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.30932203" />
       <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.024161074" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30932203" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49731544" visible="true" weight="0.30932203" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49798658" weight="0.32909605" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23221476" />
@@ -405,7 +384,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49731544" weight="0.3997175" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3294271" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,12 +408,6 @@
           <line>41</line>
           <properties />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/days/third/uzdavinysSesi.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="4" />
@@ -511,13 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/days/second/UzdavinysTrecias.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -532,43 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/third/utils/NumberUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysKeturi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysPenki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -587,8 +516,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysSesi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="238">
+          <caret line="14" column="112" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysPenki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/third/uzdavinysKeturi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/first/Uzduotys_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/second/Uzduotys_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/third/utils/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/SetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/ConstructorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/ListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/MapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#205#0" expanded="true" />
+            <element signature="e#459#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/SecondExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
