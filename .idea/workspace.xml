@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b279ffe2-cc82-428e-85b1-4d10413550b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/ConstructorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/SecondExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/FourthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/SecondTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/ThirdExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fifth/thirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/persons.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javos_mokymai/days/third/uzdavinysSesi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Javos_mokymai/days/third/uzdavinysSesi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ListExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/fourth/ListExample.java">
+      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/FirstTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="170">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,37 +41,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UzdaviniaiNamuPirmas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java">
+      <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/SecondTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Week.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/Week.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#197#205#0" expanded="true" />
-                <element signature="e#459#468#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecondExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/days/fourth/SecondExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/fourth/MapExample.java">
+      <file leaf-file-name="thirdTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/thirdTask.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,31 +77,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructorExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/fourth/ConstructorExample.java">
+      <file leaf-file-name="names.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/names.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="136">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirdExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/ThirdExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SetExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/fourth/SetExample.java">
+      <file leaf-file-name="FourthExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/FourthExample.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/days/fifth/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persons.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/persons.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -111,6 +136,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -140,6 +166,14 @@
         <option value="$PROJECT_DIR$/src/days/fourth/MapExample.java" />
         <option value="$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java" />
         <option value="$PROJECT_DIR$/src/days/fourth/SecondExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fifth/Person.java" />
+        <option value="$PROJECT_DIR$/src/days/fifth/FirstTask.java" />
+        <option value="$PROJECT_DIR$/src/days/fifth/Week.java" />
+        <option value="$PROJECT_DIR$/src/days/fifth/thirdTask.java" />
+        <option value="$PROJECT_DIR$/src/names.txt" />
+        <option value="$PROJECT_DIR$/src/days/fifth/ThirdExample.java" />
+        <option value="$PROJECT_DIR$/src/persons.txt" />
+        <option value="$PROJECT_DIR$/src/days/fifth/FourthExample.java" />
       </list>
     </option>
   </component>
@@ -190,13 +224,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="days" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Javos_mokymai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javos_mokymai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="fourth" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -226,14 +253,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondExample">
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.fourth.MapExample" />
+  <component name="RunManager" selected="Application.ThirdExample">
+    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fifth.FirstTask" />
       <module name="Javos_mokymai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.fourth.*" />
+          <option name="PATTERN" value="days.fifth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,13 +276,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.fourth.SetExample" />
+    <configuration name="ThirdExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fifth.ThirdExample" />
       <module name="Javos_mokymai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.fourth.*" />
+          <option name="PATTERN" value="days.fifth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,13 +301,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="uzdavinysSesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.third.uzdavinysSesi" />
+    <configuration name="thirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fifth.thirdTask" />
       <module name="Javos_mokymai" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.third.*" />
+          <option name="PATTERN" value="days.fifth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,19 +351,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.uzdavinysSesi" />
-      <item itemvalue="Application.SetExample" />
-      <item itemvalue="Application.MapExample" />
       <item itemvalue="Application.UzdaviniaiNamuPirmas" />
       <item itemvalue="Application.SecondExample" />
+      <item itemvalue="Application.FirstTask" />
+      <item itemvalue="Application.thirdTask" />
+      <item itemvalue="Application.ThirdExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdExample" />
+        <item itemvalue="Application.thirdTask" />
+        <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.SecondExample" />
         <item itemvalue="Application.UzdaviniaiNamuPirmas" />
-        <item itemvalue="Application.MapExample" />
-        <item itemvalue="Application.SetExample" />
-        <item itemvalue="Application.uzdavinysSesi" />
       </list>
     </recent_temporary>
   </component>
@@ -352,32 +379,39 @@
       <updated>1531412637707</updated>
       <workItem from="1531412641243" duration="7269000" />
       <workItem from="1531425302031" duration="3201000" />
-      <workItem from="1531496018630" duration="32856000" />
+      <workItem from="1531496018630" duration="44775000" />
     </task>
+    <task id="LOCAL-00001" summary="Paskaitos nauji uzdaviniai">
+      <created>1531852306293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531852306293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43326000" />
+    <option name="totallyTimeSpent" value="55245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4966443" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49597314" weight="0.32909605" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.30932203" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.504698" side_tool="true" visible="true" weight="0.30932203" />
       <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.024161074" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49731544" visible="true" weight="0.30932203" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49798658" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49932885" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49530202" visible="true" weight="0.30932203" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49731544" weight="0.32909605" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23221476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23221476" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -399,6 +433,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Paskaitos nauji uzdaviniai" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paskaitos nauji uzdaviniai" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -568,23 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/fourth/SetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
@@ -592,17 +613,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/fourth/ConstructorExample.java">
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/uzdavinysSeptyni.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="8" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/SecondExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#205#0" expanded="true" />
+            <element signature="e#459#468#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -627,27 +662,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/fourth/UzdaviniaiNamuPirmas.java">
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/ConstructorExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#197#205#0" expanded="true" />
-            <element signature="e#459#468#0" expanded="true" />
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/fourth/SecondExample.java">
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/SetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="251">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/FirstTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/Week.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/thirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/names.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Persons">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/persons.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/ThirdExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fifth/FourthExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
